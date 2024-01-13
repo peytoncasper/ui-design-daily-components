@@ -1,3 +1,4 @@
+import { BeakerIcon } from '@heroicons/react/24/solid'
 
 
 export default function ProfilePageHeaderCardDay1580() {
@@ -19,16 +20,16 @@ export default function ProfilePageHeaderCardDay1580() {
                     </div>
                     <div style={{display:"flex", padding:"16px", justifyContent: "center", alignItems:"center", gap:"10px"}}>
                         <div stlye={{borderRadius:"19px", border:"1px solid #DFDFDF", background: "#FFF"}}>
-
+                            <BeakerIcon className="h-6 w-6 text-blue-500" />
                         </div>
                         <div stlye={{borderRadius:"19px", border:"1px solid #DFDFDF", background: "#FFF"}}>
-
+                            <BeakerIcon className="h-6 w-6 text-blue-500" />
                         </div>
                         <div stlye={{borderRadius:"19px", border:"1px solid #DFDFDF", background: "#FFF"}}>
-
+                            <BeakerIcon className="h-6 w-6 text-blue-500" />
                         </div>
                         <div stlye={{borderRadius:"19px", border:"1px solid #DFDFDF", background: "#FFF"}}>
-
+                            <BeakerIcon className="h-6 w-6 text-blue-500" />
                         </div>
                     </div>
                 </div>
