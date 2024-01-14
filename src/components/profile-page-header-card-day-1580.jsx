@@ -31,6 +31,7 @@ export default function ProfilePageHeaderCardDay1580() {
                         <div stlye={{borderRadius:"19px", border:"1px solid #DFDFDF", background: "#FFF"}}>
                             <BeakerIcon className="h-6 w-6 text-blue-500" />
                         </div>
+                        Test
                     </div>
                 </div>
                 <div style={{display:"flex", flexGrow: "1", padding: "40px 40px 40px 40px"}}>test</div>
